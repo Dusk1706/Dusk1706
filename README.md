@@ -1,7 +1,5 @@
 # Dylan Moya 👋
 
-**Software Engineer**
-
 Software Engineer focused on architecting scalable enterprise solutions and secure cloud infrastructures. I specialize in modernizing legacy systems, implementing identity protocols, and solving high-level algorithmic challenges.
 ---
 
